@@ -6,8 +6,8 @@ public class CalcuSencilla {
 	{
 		// TODO Auto-generated method stub
 		// Programa para tag 1 - sin comntarios y sin metodos
-		System.out.println("Programa para version 0 - sin comntarios y sin metodos");
-		System.out.println("Comentarios: ------------------");
+		System.out.println("Programa para version 1 - CON comntarios y sin metodos");
+		System.out.println("Comentarios: HEMOS AÑADIDO COMENTARIOS");
 		System.out.println("Metodos: ------------------");
 
 	}
