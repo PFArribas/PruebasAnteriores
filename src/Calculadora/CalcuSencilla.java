@@ -8,7 +8,7 @@ public class CalcuSencilla {
 		// Programa para tag 1 - sin comntarios y sin metodos
 		System.out.println("Programa para version 1 - CON comntarios y sin metodos");
 		System.out.println("Comentarios: HEMOS AÑADIDO COMENTARIOS");
-		System.out.println("Metodos: ------------------");
+		System.out.println("Metodos: Hemos añadifo los metodos");
 
 	}
 
